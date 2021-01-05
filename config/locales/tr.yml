@@ -275,8 +275,8 @@ tr:
     search:
       start: Aramaya başla ...
   landing:
-    about: "%{href}, Sanal Okul açık kaynaklı web konferans sunucunuz için basit bir kullanıcı arabirimidir. Oturumları düzenlemek için kendi sınıflarınız oluşturabilir veya kısa ve rahat bir bağlantı kullanarak diğer sınıflara katılabilirsiniz."
-    welcome: Sanal Okulumuza hoş geldiniz.
+    about: "Telekonferans'a Hoşgeldiniz."
+    welcome: Telekonferans'a Hoşgeldiniz.
     video: Sistemi kullanma ile ilgili eğitici videomuzu izleyebilirsiniz.
     upgrade: Bana 2.0 sürümüne nasıl yükseltileceğini göster!
     version: "Sanal Sınıf Sisteminin yeni bir sürümünü çıkardık, ancak veritabanınız uyumlu değil."
