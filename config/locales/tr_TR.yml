@@ -259,8 +259,8 @@ tr_TR:
     search:
       start: Armaya başla
   landing:
-    about: "%{href} BigBlueButton açık kaynak web konferans sunucusu için basit bir  ön yüzdür. Oturumlar düzenlemek için kendi odalarınızı oluşturabilir veya  kısa bir bağlantı göndererek katılmalarını sağlayabilirsiniz."
-    welcome: BigBlueButton'a hoş geldiniz.
+    about: "Telekonferans'a Hoşgeldiniz"
+    welcome: Telekonferans'a Hoşgeldiniz.
     video: Greenlight'ı kullanma hakkındaki eğitimimizi izleyin
     upgrade: 2.0'a nasıl yükselteceğimi göster!
     version: "Greenlight'ın yeni bir versiyonunu yayınladık, ancak veritabanınız uyumlu değil."
